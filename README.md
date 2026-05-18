@@ -73,9 +73,11 @@ DreamDiaryTest
 **Utility Classes**
 
 WaitUtils
+
 Handles explicit waits and synchronization.
 
 ScreenshotUtils
+
 Captures screenshots during execution for test evidence.
 
 **BaseTest**
